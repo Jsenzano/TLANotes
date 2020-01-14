@@ -1,0 +1,2 @@
+Selenium is an automation language
+Selenium Web Driver is based on Java or Python

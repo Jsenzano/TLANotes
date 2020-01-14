@@ -1,0 +1,2 @@
+Unix can be used to create directories and files
+Unix and Dos are similar

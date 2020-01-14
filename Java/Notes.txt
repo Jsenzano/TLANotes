@@ -1,0 +1,4 @@
+I know that java is an object oriented language
+Sysytem.out.println() will print a line
+We can create methods to build an application or functionality.
+
